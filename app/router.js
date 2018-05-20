@@ -10,5 +10,9 @@ Router.map(function() {
 });
 
 export default Router;
+<<<<<<< HEAD
 //branch development
 //master branch
+=======
+//branch development
+>>>>>>> development
